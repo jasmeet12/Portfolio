@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c29e7c25.chunk.css",
+    "main.js": "/static/js/main.3ee5c1b5.chunk.js",
+    "main.js.map": "/static/js/main.3ee5c1b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a2aa26e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a2aa26e6.js.map",
+    "static/js/2.4a7de355.chunk.js": "/static/js/2.4a7de355.chunk.js",
+    "static/js/2.4a7de355.chunk.js.map": "/static/js/2.4a7de355.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/js/3.9492b5c9.chunk.js": "/static/js/3.9492b5c9.chunk.js",
+    "static/js/3.9492b5c9.chunk.js.map": "/static/js/3.9492b5c9.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.87acad9c.chunk.js": "/static/js/4.87acad9c.chunk.js",
+    "static/js/4.87acad9c.chunk.js.map": "/static/js/4.87acad9c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.63c0208d56fe86129bf2245d1bd593d5.js": "/precache-manifest.63c0208d56fe86129bf2245d1bd593d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.c29e7c25.chunk.css.map": "/static/css/main.c29e7c25.chunk.css.map",
+    "static/js/2.4a7de355.chunk.js.LICENSE.txt": "/static/js/2.4a7de355.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Quovantis.png": "/static/media/Quovantis.c30bd1a8.png",
+    "static/media/York_square.jpg": "/static/media/York_square.ffdaca39.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/jiit.png": "/static/media/jiit.3d37b8ef.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/pointclickcare_logo.png": "/static/media/pointclickcare_logo.b400f2a2.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/zipp-sliplogo.png": "/static/media/zipp-sliplogo.739e1928.png",
+    "static/media/zopper.jpg": "/static/media/zopper.8ace2d44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2aa26e6.js",
+    "static/js/2.4a7de355.chunk.js",
+    "static/css/main.c29e7c25.chunk.css",
+    "static/js/main.3ee5c1b5.chunk.js"
+  ]
+}
